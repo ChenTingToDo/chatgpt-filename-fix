@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Chinese Download Filename Fix",
+  "version": "1.0.0",
+  "description": "Decode percent-encoded UTF-8 filenames before saving downloads. Offline; no network access.",
+  "permissions": ["downloads"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
