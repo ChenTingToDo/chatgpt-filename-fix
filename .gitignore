@@ -1,0 +1,9 @@
+# Local / editor / OS artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+*.log
+*.zip
+*.crdownload
